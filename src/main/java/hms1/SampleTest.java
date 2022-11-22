@@ -12,9 +12,7 @@ public class SampleTest
 	   public void script2()
 	   {
 		   System.out.println("script2");  
+		   System.out.println("script3");  
 	   }
-	   public void script3()
-	   {
-		   System.out.println("script2");  
-	   }
+	  
 }
