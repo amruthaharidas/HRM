@@ -9,7 +9,7 @@ public class Test1 {
 	public void script1()
 	{
 		System.out.println("........script 1............");
-		System.out.println("Sridevi");
+		System.out.println("Sridevi  Sridevi");
 	}
 	
 	@Test()
