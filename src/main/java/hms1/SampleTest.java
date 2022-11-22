@@ -13,4 +13,8 @@ public class SampleTest
 	   {
 		   System.out.println("script2");  
 	   }
+	   public void script3()
+	   {
+		   System.out.println("script2");  
+	   }
 }
