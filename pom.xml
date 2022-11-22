@@ -1,15 +1,11 @@
-<<<<<<< HEAD
+
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>hmspatient</groupId>
   <artifactId>HMSPractice</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-=======
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>Amrutha</groupId>
-  <artifactId>AdvanceSelenium</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+
+
   
   <dependencies>
   
@@ -101,5 +97,5 @@
 </plugins>
 </pluginManagement>
 </build>
->>>>>>> branch 'master' of https://github.com/amruthaharidas/HRM.git
+
 </project>
