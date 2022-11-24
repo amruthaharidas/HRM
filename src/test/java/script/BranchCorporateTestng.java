@@ -28,7 +28,7 @@ import com.HRM.resource.GenericLibraries.IPathConstants;
 public class BranchCorporateTestng extends BaseClass {
 
 	
-	@Test(groups="smoke")
+	@Test()
 	
 	public void branchCorporate() throws InterruptedException, IOException, AWTException, EncryptedDocumentException, InvalidFormatException
 	{
@@ -96,9 +96,10 @@ public class BranchCorporateTestng extends BaseClass {
 		 
 	}
 	
-	@Test(groups="smoke")
+	@Test()
 	public void test()
 	{
+		System.out.println("println new");
 		System.out.println("println new");
 	}
 	
